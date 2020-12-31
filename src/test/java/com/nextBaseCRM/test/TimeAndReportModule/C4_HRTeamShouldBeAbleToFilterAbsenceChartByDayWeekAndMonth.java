@@ -4,7 +4,7 @@ import com.nextBaseCRM.utility.WebDriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class C4_C3_HRTeamShouldBeAbleToFilterAbsenceChartByDayWeekAndMonth {
+public class C4_HRTeamShouldBeAbleToFilterAbsenceChartByDayWeekAndMonth {
     public static void main(String[] args) throws InterruptedException {
 
         //1-Action: Access to nextBaseCRM
